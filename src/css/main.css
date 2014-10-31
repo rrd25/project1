@@ -43,6 +43,8 @@ hr {
     padding: 0;
 }
 
+
+
 /*
  * Remove the gap between images, videos, audio and canvas and the bottom of
  * their containers: h5bp.com/i/440
@@ -88,6 +90,108 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+#wrapper {
+	width: 963px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+h1 {
+	font-size: 220%;
+}
+
+h2 {
+	font-size: 200%;
+}
+
+h3 {
+	font-size: 180%;
+}
+
+h4 {
+	font-size: 160%;
+}
+
+h5 {
+	font-size: 140%;
+}
+
+h6 {
+	font-size: 120%;
+}
+
+#content {
+	background-color:#F2E8D5;
+	border-radius:20px;
+	width: 898px;
+	padding-left: 31px;
+	padding-right: 31px;
+	text-align: justify;
+}
+
+#article_heading {
+	height: 86px;
+	line-height: 86px;
+}
+
+#article_photo img {
+	height: 338px;
+	width: 338px;
+	float: right;
+	padding: 9px;
+	margin: 10px;
+}
+
+p.first {
+	margin: 0px;
+}
+
+#article_heading h1 {
+	margin: 0px;
+}
+
+#logo {
+	width: 56px;
+	height:86px;
+}
+
+#menu {
+	height: 56px;
+	line-height: 56px;
+	text-align:center;
+}
+
+#menu ul, li {
+	margin: 0px;
+}
+
+#menu li {
+	display: inline;
+}
+
+a:link {
+	color:#434573;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
